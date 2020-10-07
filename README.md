@@ -1,6 +1,6 @@
 # Gudetama-Memory-Card-Game
 
-![Final Result](Gudetama-final.jpg)
+![Final Result](images/Gudetama-final.jpg)
 
 ## Back story
 Wireframe
